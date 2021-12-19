@@ -7,16 +7,16 @@ This was an assignment during the [Skills Bootcamp in Artificial Intelligence](h
 
 It was intended to be presented as a form of presentation, thus, the code is as clearly explained as possible in a step-by-step fashion.
 
-Tools:
+**Tools**:
 - Google Collab
 - Python (pandas, numpy, matplotlib, seaborn, ipython, wordcloud, scikit-learn, nltk)
 - Jupyter Notebooks (presented via the JN slideshow function)
   
- Algorithms used:
+ **Algorithms used**:
 - Multinomial Naive-Bayes
 - Support Vector Classifier
 
-Learned about:
+**Learned about**:
 - NLP general concepts (tokenization)
 - Object manipulation with nltk
 - Various evaluation metrics
